@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gitstudy\\unreal_9\\source\\unreal_9\\unreal_9.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitstudy\\unreal_9\\intermediate\\build\\win64\\x64\\unreal_9editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\gitstudy\\unreal_9\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_9\\definitions.unreal_9.h",
+            "c:\\gitstudy\\unreal_9\\source\\unreal_9\\unreal_9.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

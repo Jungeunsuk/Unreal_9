@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitStudy\\Unreal_9\\Source\\Unreal_9\\Unreal_9.Build.cs",
+		"C:\\GitStudy\\Unreal_9\\Source\\Unreal_9.Target.cs",
+		"C:\\GitStudy\\Unreal_9\\Source\\Unreal_9Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
